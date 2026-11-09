@@ -1,0 +1,20 @@
+{
+  "name": "boss-reads-this",
+  "owner": {
+    "name": "jinieeee"
+  },
+  "metadata": {
+    "description": "한국어 업무 문서를 독자와 문서 종류에 맞춰 쓰고 고치는 writing 스킬",
+    "version": "1.0.0",
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "boss-reads-this",
+      "source": "./",
+      "description": "기획서, 보고서, 회의록, 컨플루언스 페이지 같은 한국어 업무 문서를 쓰고 다듬는 스킬과 점검 스크립트",
+      "version": "1.0.0",
+      "keywords": ["korean", "writing", "문서", "윤문", "번역투"]
+    }
+  ]
+}
