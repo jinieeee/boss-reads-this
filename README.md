@@ -1,4 +1,4 @@
-# 이거 부장님이 읽어
+# BOSS가 이거 읽음
 
 `boss-reads-this`
 
